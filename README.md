@@ -1,2 +1,2 @@
-# project2
+# project1/
 hello world
